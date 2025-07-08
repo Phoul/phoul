@@ -1,4 +1,4 @@
-## Hi there, I'm Colin / Phoul / Opprimereu 👋
+## Hi there, I'm Colin 👋
 
 ![Colin's Github Stats](https://github-readme-stats.vercel.app/api?username=phoul&theme=dracula&show_icons=true&rank_icon=github&include_all_commits=true)
 
